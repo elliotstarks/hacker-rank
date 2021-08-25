@@ -6,6 +6,7 @@ namespace RepeatingString
     {
 
         /*
+         * Problem: https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
          * Complete the 'repeatedString' function below.
          *
          * The function is expected to return a LONG_INTEGER.

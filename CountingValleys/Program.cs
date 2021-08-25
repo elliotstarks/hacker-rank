@@ -6,6 +6,7 @@ namespace CountingValleys
     {
 
         /*
+         * Problem: https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
          * Complete the 'countingValleys' function below.
          *
          * The function is expected to return an INTEGER.
